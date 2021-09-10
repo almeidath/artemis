@@ -1,7 +1,6 @@
 import time
 from binance.client import Client
-from datetime import datetime
-from datetime import timedelta
+from datetime import datetime, timedelta
 from artemis_config import API_KEY, API_SECRET_KEY, gainpercentage, losspercentage, walletpercentage
 client = Client(API_KEY, API_SECRET_KEY)
 

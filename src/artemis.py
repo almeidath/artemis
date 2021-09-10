@@ -71,7 +71,7 @@ def welcome_msg():
         ARTEMIS v0.0.1 - Binance Futures script\n
        =========================================\n\n
         You can find more help at: https://github.com/almeidath/artemis\n
-        Make sure you are using the latest version.\n\n\n""")
+        Make sure you are using the latest version\n\n\n""")
 
 if __name__=="__main__":
   welcome_msg()
